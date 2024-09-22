@@ -2,7 +2,7 @@
 
 * The code was originally hosted on our Google Drive and was executed in the Google Colab environment, along with the folders that contains data and the output.
 
-* The folders for the data and the models and the outputs were too big to be shared in GitHub, we provided the in the following link: https://drive.google.com/drive/folders/1igZBtNOkDT0QeiiHfPo8vKfZweXYMi2Y?usp=sharing
+* The folders for the data and the models and the outputs were too big to be shared in GitHub, we provided them in the following link: https://drive.google.com/drive/folders/1igZBtNOkDT0QeiiHfPo8vKfZweXYMi2Y?usp=sharing
 
 * Here we provide the notebook which was used to conduct the study and create all the visualizations
 
