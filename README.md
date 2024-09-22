@@ -6,7 +6,7 @@
 
 * Here we provide the notebook which was used to conduct the study and create all the visualizations
 
-* To reproduce the results, download the notebook and the folders and fix the new folders path to remove the google drive refernces 
+* To reproduce the results, download the notebook and the folders and fix the new folders path (in the 1st cell in the notebook) to remove the google drive refernces 
 
 ![image](https://github.com/user-attachments/assets/131d43a3-0bd2-4fed-b8f0-6537dddd0dab)
 
